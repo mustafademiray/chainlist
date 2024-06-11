@@ -4955,6 +4955,11 @@ export const extraRpcs = {
         tracking: "none",
         trackingDetails: privacyStatement.sigmacore,
       },
+	    {
+		    url: "https://42.rpc.thirdweb.com",
+		    tracking: "none",
+		    trackingDetails: privacyStatement.thirdweb,
+		},
     ],
   },
   223: {
